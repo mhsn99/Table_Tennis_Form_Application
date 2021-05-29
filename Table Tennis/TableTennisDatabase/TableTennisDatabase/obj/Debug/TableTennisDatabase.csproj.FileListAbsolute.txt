@@ -1,0 +1,48 @@
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.exe.config
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.exe
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.pdb
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.FormLogin.resources
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.Properties.Resources.resources
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.exe
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.pdb
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.NewMatch.resources
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.NewPlayer.resources
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.MainMenu.resources
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.EditPlayer.resources
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.mdf
+C:\Users\hp\Desktop\BÖTE\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase_log.ldf
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.mdf
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase_log.ldf
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.exe.config
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.exe
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.pdb
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.EditPlayer.resources
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.FormLogin.resources
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.MainMenu.resources
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.NewMatch.resources
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.NewPlayer.resources
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.Properties.Resources.resources
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.exe
+C:\Users\hp\Desktop\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.pdb
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.mdf
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase_log.ldf
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.exe.config
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.exe
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\bin\Debug\TableTennisDatabase.pdb
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.EditPlayer.resources
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.FormLogin.resources
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.MainMenu.resources
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.NewMatch.resources
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.NewPlayer.resources
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.Properties.Resources.resources
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.exe
+C:\Users\hp\Desktop\All\Dökümanlar\C#\C# Form\Table Tennis\TableTennisDatabase\TableTennisDatabase\obj\Debug\TableTennisDatabase.pdb
